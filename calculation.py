@@ -37,4 +37,4 @@ h = 7
 m = 60
 print('Angle ', calcAngle(h, m))
 
-# This code is contributed by Danish Raza
+
